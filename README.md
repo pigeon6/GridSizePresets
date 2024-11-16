@@ -8,5 +8,5 @@ Preference page is available to set prefered values.
 
 ![Config](images/preference.png)
 
-#License
+## License
 MIT License
