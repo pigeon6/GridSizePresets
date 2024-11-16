@@ -1,0 +1,24 @@
+{
+  "name": "dev.pigeon6.gridsizepresets",
+  "displayName": "Grid Size Presets",
+  "version": "1.0.0",
+  "unity": "6000.1",
+  "description": "Provide a nifty tool for SceneView grid size switching.",
+  "author": {
+    "name": "Hiroki Omae",
+    "url": "https://github.com/pigeon6/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pigeon6/GridSizePresets.git"
+  },
+  "keywords": [
+    "overlay",
+    "grid"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pigeon6/GridSizePresets/issues"
+  },
+  "homepage": "https://github.com/pigeon6/GridSizePresets#readme"
+}

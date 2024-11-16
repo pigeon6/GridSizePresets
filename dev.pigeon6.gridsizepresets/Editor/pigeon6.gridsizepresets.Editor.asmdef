@@ -1,0 +1,19 @@
+{
+    "name": "pigeon6.gridsizepresets.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:90a422fbb94154940943f7902d890f00",
+        "pigeon6.gridtool"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
